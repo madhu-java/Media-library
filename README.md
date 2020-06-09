@@ -26,3 +26,6 @@ Properties: artist (string), title (string), isCheckedOut (boolean, initially fa
 Getters: all properties have a getter
 
 Methods: .getAverageRating(), .toggleCheckOutStatus(), and .addRating()
+
+
+Create class called Catalog that holds all of the Media items in our library.
